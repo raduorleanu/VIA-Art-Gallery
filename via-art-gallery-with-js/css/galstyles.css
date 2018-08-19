@@ -1,0 +1,32 @@
+body, html {
+    width: 100%;
+}
+
+.logo {
+    height: 100%;
+}
+
+.inner-img {
+    width: 50%;
+    float: left;
+    border: 5px solid white;
+}
+
+.fb-img {
+    width: 100%;
+    margin-top: 15%;
+}
+
+.map {
+    height: 40vw;
+}
+
+#footer img{
+    max-width: 10%;
+}
+
+#footer{
+    font-size: 75%;
+    font-style: italic;
+    margin-top: 2%;
+}

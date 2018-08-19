@@ -1,0 +1,92 @@
+body html {
+    width: 100%;
+}
+
+.logo {
+    height: 100%;
+}
+
+#main {
+    margin-top: 5%;
+}
+
+.bottom-text {
+    height: 60px;
+}
+
+.carousel-indicators {
+    bottom: 60px;
+}
+
+.future-title {
+    text-align: center;
+    color: #a8a8a8;
+    font-weight: bold;
+}
+
+.f-row {
+    padding: 5px;
+    font-size: 0.8em;
+}
+
+.future {
+    margin-top: 50px;
+}
+
+#footer img, #galFooter img {
+    max-width: 10%;
+}
+
+#footer {
+    font-size: 75%;
+    font-style: italic;
+    margin-top: 10%;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+/*gallery*/
+
+.pane {
+    color: #a8a8a8;
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.inner-img {
+    width: 50%;
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fb-img {
+    width: 100%;
+    margin-top: 15%;
+}
+
+.map {
+    height: 37vw;
+}
+
+.contact {
+    width: 60%;
+}
+
+#galFooter {
+    font-size: 75%;
+    font-style: italic;
+    margin-top: 2%;
+}
+
+/* fix button click focus */
+
+button:focus {
+    outline: 0!important;
+}
